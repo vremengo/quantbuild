@@ -2,4 +2,6 @@ __pycache__/
 *.pyc
 .pytest_cache/
 equity_curve.png
+equity_curve_oanda.png
 .venv/
+.env
